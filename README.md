@@ -11,5 +11,5 @@ Cele 3 grafice:
 
 Cum modificam programul astfel incat sa ne genereze date pentru alte curse?
 Simplu, in fisierul main.py modificam in functie de ce informatii ne dorim sa accesam. Un exemplu mai jos:
-![Screenshot_2](https://user-images.githubusercontent.com/117079834/223510255-b9604eef-8a14-494d-a697-52246da5ce4e.png)
 ![Screenshot_1](https://user-images.githubusercontent.com/117079834/223510253-d83e2fe9-0139-4aaa-8362-010ac2208fc1.png)
+![Screenshot_2](https://user-images.githubusercontent.com/117079834/223510255-b9604eef-8a14-494d-a697-52246da5ce4e.png)
